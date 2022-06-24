@@ -13,9 +13,11 @@ export function Video() {
                         <h1 className="text-2xl font-bold">
                             Why Programming Is Important?
                         </h1>
-                        <p className="mt-4 text-gray-200">
+                        <p className="mt-4 text-gray-200 leading-relaxed">
                             This is a code.org video that explains everything we should know and do. I do not own this video. I shared it just to spread the idea for non-profit. Thank you and happy coding.
                         </p>
+
+                        
                     </div>
 
                     <div className="flex flex-col gap-4">
