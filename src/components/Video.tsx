@@ -17,7 +17,18 @@ export function Video() {
                             This is a code.org video that explains everything we should know and do. I do not own this video. I shared it just to spread the idea for non-profit. Thank you and happy coding.
                         </p>
 
-                        
+                        <div className="flex item-center gap-4 mt-6">
+                            <img
+                            className="h-16 w-16 rounded-full border-2 border-blue-500"
+                            src="https://github.com/JoshyyDev.png" 
+                            alt="" 
+                            />
+
+                            <div className="leading-relaxed">
+                                <strong className="font-bold text-2xl block">Josué Cortez</strong>
+                                <span className="text-gray-200 text-sm block">Programador</span>
+                            </div>
+                        </div>
                     </div>
 
                     <div className="flex flex-col gap-4">
