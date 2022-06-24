@@ -17,6 +17,7 @@ const GET_LESSON_BY_SLUG_QUERY = gql`
         teacher {
         bio
         avatarURL
+        name
         }
     }
 }
