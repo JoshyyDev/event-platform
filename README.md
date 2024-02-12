@@ -1,6 +1,6 @@
-# Plataforma de evento feito na semana IgniteLab
+# Event platform made during IgniteLab week
 
-## Tecnologias Usadas
+## Technologies Used
 
 * React
 * Typescript
@@ -10,11 +10,11 @@
 * @apollo/client and GraphQL
 * Graphql-code-generator
 * Phosphor icon family (https://phosphoricons.com/)
-* svg2jsx para gerar um componente SVG (https://svg2jsx.com/)
+* svg2jsx to generate an SVG component (https://svg2jsx.com/)
 
-# Executar o projeto
+# Execute the project
 
-Pelo seu terminal navegue até a pasta do projeto e execute:
+Using your terminal, navigate to the project folder and run:
 
 ```cl
   npm install
