@@ -6,7 +6,7 @@
 * Typescript
 * Tailwindcss
 * Node (NPM)
-* Headless CMS (Content Management System) com GraphCMS
+* Headless CMS (Content Management System) and GraphCMS
 * @apollo/client and GraphQL
 * Graphql-code-generator
 * Phosphor icon family (https://phosphoricons.com/)
